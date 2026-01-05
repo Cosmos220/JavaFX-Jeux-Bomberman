@@ -1,5 +1,6 @@
 # 💣 JavaFX Bomberman
 ![Aperçu Larsen](https://raw.githubusercontent.com/Cosmos220/JavaFX-Jeux-Bomberman/main/image.png)
+
 ![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-21.0.1-4285F4?style=for-the-badge&logo=java&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-Build-02303A?style=for-the-badge&logo=gradle&logoColor=white)
