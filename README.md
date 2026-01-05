@@ -46,26 +46,6 @@ Le projet suit une architecture **MVC (Modèle-Vue-Contrôleur)** stricte, renfo
 * JDK 21 installé.
 * Gradle (optionnel, le wrapper `gradlew` est inclus).
 
-### Instructions
-
-1.  **Cloner le dépôt** :
-    ```bash
-    git clone [https://github.com/TonPseudo/JavaFX-Jeux-Bomberman.git](https://github.com/TonPseudo/JavaFX-Jeux-Bomberman.git)
-    cd JavaFX-Jeux-Bomberman
-    ```
-
-2.  **Lancer le jeu via Gradle** :
-    Sous Windows :
-    ```bash
-    .\gradlew run
-    ```
-    Sous Mac/Linux :
-    ```bash
-    ./gradlew run
-    ```
-
-L'application se lancera via la classe principale `fr.univartois.butinfo.ihm.BombermanApplication`.
-
 ## 👤 Auteur
 
 **Loïck DAVI** - *Développeur*
